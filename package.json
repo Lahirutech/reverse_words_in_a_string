@@ -1,0 +1,24 @@
+{
+  "name": "reverse_words",
+  "version": "1.0.0",
+  "description": "Reverse a sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lahirutech/reverse_words_in_a_string.git"
+  },
+  "keywords": [
+    "reverse",
+    "a",
+    "string"
+  ],
+  "author": "Lanka Lanka Pembara Lanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lahirutech/reverse_words_in_a_string/issues"
+  },
+  "homepage": "https://github.com/Lahirutech/reverse_words_in_a_string#readme"
+}
